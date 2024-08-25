@@ -11,7 +11,7 @@
 # Docs: https://redefine-docs.ohevan.com/basic/info
 info:
   # Site title
-  title: Clevebitr的Hexo博客
+  title: Clevebitr Hexo
   # Author name
   author: Clevebitr
   # Site URL
@@ -23,9 +23,9 @@ info:
 # Docs: https://redefine-docs.ohevan.com/basic/defaults
 defaults:
   # Favicon
-  favicon: /images/redefine-favicon.svg
+  favicon: /images/logoCircle.png
   # Site logo
-  logo: /images/logo.png
+  logo: /images/logoCircle.png
   # Site avatar
   avatar: /images/logo.png
 # IMAGE CONFIGURATION <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< end
@@ -116,7 +116,7 @@ home_banner:
     light: /images/wallhaven-wqery6-light.webp # light mode
     dark: /images/wallhaven-wqery6-dark.webp # dark mode
   # Home banner title
-  title: Theme Redefine
+  title: Clevebitr Hexo
   # Home banner subtitle
   subtitle:
     text: ['loading...'] # subtitle text, array
@@ -212,7 +212,7 @@ navbar:
   # Navbar search (local search). Requires hexo-generator-searchdb (npm i hexo-generator-searchdb). See https://github.com/theme-next/hexo-generator-searchdb
   search:
     # Whether to enable
-    enable: false
+    enable: true
     # Preload search data when the page loads
     preload: true
 # NAVIGATION BAR <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< end
@@ -232,9 +232,9 @@ home:
       # Archives: 
       #   path: /archives 
       #   icon: fa-regular fa-archive # can be empty
-      # Tags: 
-      #   path: /tags 
-      #   icon: fa-regular fa-tags # can be empty
+      Tags: 
+        path: /tags 
+        icon: fa-regular fa-tags # can be empty
       # Categories: 
       #   path: /categories 
       #   icon: fa-regular fa-folder # can be empty
