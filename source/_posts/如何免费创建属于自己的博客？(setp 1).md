@@ -41,6 +41,8 @@ Git 与常用的版本控制工具 CVS, Subversion 等不同，它采用了分�
 {% endnote %}
 根据操作系统选择下载  
 
-{% btn regular ::Git for Windows 下载::https://git-scm.com/download/win ::fa-solid fa-download %}  
-{% btn regular ::Git for MacOS 下载::https://git-scm.com/download/mac ::fa-solid fa-download %}  
-{% btn regular ::Git for Liunx 下载::https://git-scm.com/download/linux ::fa-solid fa-download %}  
+{% btn regular ::Git for Windows 下载::https://git-scm.com/download/win ::fa-solid fa-download %}
+
+{% btn regular ::Git for MacOS 下载::https://git-scm.com/download/mac ::fa-solid fa-download %}
+
+{% btn regular ::Git for Liunx 下载::https://git-scm.com/download/linux ::fa-solid fa-download %}
