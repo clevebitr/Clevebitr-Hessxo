@@ -133,7 +133,6 @@ github->账户->setting
 
 ``` bash
 ssh -T git@github.com
-
 ```
 按照提示输入yes，回车，提示successfully之类的就说明SSH连接正常，github上的钥匙也会变成绿色
 
