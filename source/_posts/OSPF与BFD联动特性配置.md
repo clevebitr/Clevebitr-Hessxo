@@ -2,6 +2,7 @@
 title: OSPF与BFD联动特性配置
 date: 2024-09-29 19:48:31
 tags: OSPF协议
+categories: 高级路由交换
 ---
 ## OSPF与BFD联动
 如果需要提高链路状态变化时OSPF协议的收敛速度，可以在运行OSPF协议的链路上配置BFD特性。  

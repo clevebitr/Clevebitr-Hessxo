@@ -1,7 +1,8 @@
 ---
 title: EscapeFromTarkov-Trainer的安装与使用
 date: 2024-08-25 15:11:12
-tags: Trainer
+tags: [逃离塔克夫,安装,辅助]
+categories: 游戏
 ---
 {% note info fa-info %}
 **注意，离线修改器只可在离线版本中使用，不可在正式版中使用！会被反作弊检测到！在正式版中使用所造成的一切后果，本教程不承担任何责任！**

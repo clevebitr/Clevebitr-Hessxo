@@ -1,7 +1,8 @@
 ---
 title: 如何免费创建属于自己的博客？（step 2）
 date: 2024-09-09 18:21:00
-tags: Hexo
+tags: [Hexo,博客]
+categories: 教程
 ---
 ## 安装Hexo
 在你常用的目录下新建一个文件夹，名字随意（英文）

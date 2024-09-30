@@ -1,7 +1,8 @@
 ---
 title: 塔克夫SPT-AKI离线版本安装指南
 date: 2024-08-25 09:39:20
-tags: SPT-AKI
+tags: [逃离塔克夫,安装]
+categories: 游戏
 ---
 
 # 逃离塔克夫SPT-AKI离线版本安装指南
