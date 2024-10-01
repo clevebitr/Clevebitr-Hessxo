@@ -4,6 +4,9 @@ date: 2024-09-29 19:48:31
 tags: OSPF协议
 categories: 高级路由交换
 ---
+{% note info fa-info %} 
+本实验使用ensp仿真模拟器配置
+{% endnote %}
 ## OSPF与BFD联动
 如果需要提高链路状态变化时OSPF协议的收敛速度，可以在运行OSPF协议的链路上配置BFD特性。  
 当BFD检测到链路出现故障时，能够将故障通告给路由协议，触发路由协议的快速收敛；当邻居关系为Down时，将动态删除BFD会话。
