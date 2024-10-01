@@ -1,7 +1,7 @@
 ---
 title: OSPFv3协议的配置
 date: 2024-09-29 18:44:13
-tags: OSPF协议
+tags: [OSP,高级路由交换]
 categories: 高级路由交换
 ---
 {% note info fa-info %} 

@@ -1,7 +1,7 @@
 ---
 title: OSPF与BFD联动特性配置
 date: 2024-09-29 19:48:31
-tags: OSPF协议
+tags: [OSPF,BFD,高级路由交换]
 categories: 高级路由交换
 ---
 {% note info fa-info %} 
